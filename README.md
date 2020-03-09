@@ -1,7 +1,7 @@
 # NLP_MVA
 This work is an implementation of a probabilistic parser for French based on PCYK, CYK and handling Out-Of-Vacabulary words.
 
-You can directly run the shell script 'run.sh' by tapping './run.sh' on the terminal. \
+You can directly run the shell script 'run.sh' by tapping *./run.sh* on the terminal. \
 This file will run the main.py file, which calls all the others files.\
 
 Notes : 
