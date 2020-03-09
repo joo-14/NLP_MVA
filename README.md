@@ -18,7 +18,7 @@ ATTENTION :\
 If you directly run the run.sh shell script, the main.py will automaticcaly erase and recreate the evaluation_data.parser_output file and so erase the result that we obtain after 1h30 of running. 
 
 
-------------------------------------------------------------------------------
-File "evaluation_data.parser_output" was generated running "python3 eval.py"
+-----------------------------------------------------------------------------------------
+File "evaluation_data.parser_output" was generated running "./run.sh" or "python main.py"
 
-------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
