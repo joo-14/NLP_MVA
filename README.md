@@ -22,3 +22,8 @@ If you directly run the run.sh shell script, the main.py will automaticcaly eras
 File "evaluation_data.parser_output" was generated running "./run.sh" or "python main.py"
 
 -----------------------------------------------------------------------------------------
+
+To evaluate our parser, one should use the open-package EVALB :
+-cd EvalB
+-./evalb -p sample/sample.prm ../system/test_file ../system/evaluation_data.parser_output
+
