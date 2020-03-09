@@ -14,8 +14,7 @@ Information about the .py files :
 
 2) If you prefer to shuffle the data, in the main file you should put into commentary the "preparation()" and running the lines where it is written "shuffle"
 
-ATTENTION :\
-If you directly run the run.sh shell script, the main.py will automaticcaly erase and recreate the evaluation_data.parser_output file and so erase the result that we obtain after 1h30 of running. 
+
 
 
 -----------------------------------------------------------------------------------------
